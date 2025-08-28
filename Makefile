@@ -1,2 +1,2 @@
-$ make say-hello
-echo "Hello, World!"
+run:
+	make say-hello
